@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: #1e08ec;
+    color: #fff;
+    text-align: center;
+}
+
+nav ol {
+    list-style: none;
+    padding: 0;
+}
+
+nav ol li {
+    display: inline;
+    margin-right: 60px;
+}
+
+nav ol li a {
+    text-decoration:    rgb(219, 135, 7);
+    color: #e7e4e4;
+}
